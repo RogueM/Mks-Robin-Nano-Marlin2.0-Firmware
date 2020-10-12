@@ -1,3 +1,10 @@
+# Notice
+
+This is fork of https://github.com/makerbase-mks/Mks-Robin-Nano-Marlin2.0-Firmware
+
+This reppository includes changes to the source meant for upstream. PR branches contain partial changes aimed at submitting clean pull requests to the upstream repository and have no value beyond that - the default branch, mks_ui-modified, contains all cumulative changes.
+
+
 # Mks-Robin-Nano-Marlin2.0-Firmware
 ## Features
 The firmware of Mks Robin Nano, based on [Marlin2.0.x](https://github.com/MarlinFirmware/Marlin), added the [LittlevGL](https://github.com/littlevgl/lvgl), supporting colourful GUI and touch screen. It is developed on PlatformIO, we hope more and more developers will participate the development of this repository.
